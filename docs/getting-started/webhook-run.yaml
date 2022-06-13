@@ -8,11 +8,11 @@ spec:
     name: create-webhook
   params:
   - name: GitHubOrg
-    value: "iancoffey"
+    value: "kulkarni390"
   - name: GitHubUser
-    value: "iancoffey"
+    value: "kulkarni390"
   - name: GitHubRepo
-    value: "ulmaceae"
+    value: "triggers"
   - name: GitHubSecretName
     value: webhook-secret
   - name: GitHubAccessTokenKey
